@@ -1,0 +1,29 @@
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+html{
+    background-color: black;
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+    align-items: center;
+    
+}
+h1{
+    text-transform: uppercase;
+}
+.col{
+    color: white;
+    text-align: center;
+}
+.content{
+    margin-top: 30px;
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
